@@ -31,7 +31,7 @@ Além disso, também atuo na manutenção e desenvolvimento de modelos de proces
 </a>
 <a href="mailto:vinicius.fernando.souza@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="ttps://discordapp.com/users/684937020841525264" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+<a href="https://discordapp.com/users/684937020841525264" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 <!--
 [![card](https://github-readme-stats.vercel.app/api?username=vinifsouza&theme=dracula)](https://github.com/vinifsouza/) [![vinifsouza](https://github-readme-stats.vercel.app/api/top-langs/?username=vinifsouza&hide=html&layout=compact&theme=dracula)](https://github.com/vinifsouza/)
