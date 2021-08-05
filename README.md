@@ -1,4 +1,4 @@
-## 🧔🏾 Olá, sou **Vinícius Souza**.
+## 🧔🏾 Olá, sou **Vinícius Souza**
 
 Atualmente, trabalho como ***desenvolvedor IA Jr.*** na construção de fluxos de ***chatbots*** e ***bots*** para atendimento de e-mails.
 
