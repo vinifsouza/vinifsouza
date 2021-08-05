@@ -9,13 +9,13 @@ Além disso, também atuo na manutenção e desenvolvimento de modelos de proces
 
 ## 🚀 Skills
 
-**Aplicações e Linguages**
+**Linguagens e Bibliotecas**
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql) ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=microsoft-sql-server) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=microsoft-sql-server) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 
-**Utilidades**
+**Aplicações**
 
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter) ![Colab](https://img.shields.io/badge/-Colab-333333?style=flat&logo=google-colab) ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter) ![Colab](https://img.shields.io/badge/-Colab-333333?style=flat&logo=google-colab)
 
 **DevOps**
 
@@ -23,7 +23,7 @@ Além disso, também atuo na manutenção e desenvolvimento de modelos de proces
 
 **Ferramentas de Desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Jira](https://img.shields.io/badge/-jira-333333?style=flat&logo=jira&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Jira](https://img.shields.io/badge/-jira-333333?style=flat&logo=jira&logoColor=007ACC) ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint)
 
 ## 🌐 Redes Sociais
 
