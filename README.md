@@ -13,6 +13,8 @@ Além disso, também atuo na manutenção e desenvolvimento de modelos de proces
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=microsoft-sql-server) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 
+![vinifsouza](https://github-readme-stats.vercel.app/api/top-langs/?username=vinifsouza&hide=html&layout=compact&theme=tokyonight)
+
 **Aplicações**
 
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter) ![Colab](https://img.shields.io/badge/-Colab-333333?style=flat&logo=google-colab)
