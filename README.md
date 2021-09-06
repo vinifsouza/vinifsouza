@@ -7,6 +7,10 @@ Além disso, também atuo na manutenção e desenvolvimento de modelos de proces
  - 🎓 **Análise e Desenvolvimento de Sistemas** na [FATEC/Sorocaba](http://www.fatecsorocaba.edu.br/)
  - 💼 **Desenvolvedor IA Jr.** na [Eduzz](https://www.eduzz.com/)
 
+![](https://hit.yhype.me/github/profile?user_id=39967235)
+
+![Profile Views](https://komarev.com/ghpvc/?username=vinifsouza&color=CCCCCC)
+
 ## 🚀 Skills
 
 **Linguagens e Bibliotecas**
