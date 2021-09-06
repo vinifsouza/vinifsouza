@@ -9,7 +9,7 @@ Além disso, também atuo na manutenção e desenvolvimento de modelos de proces
 
 ![](https://hit.yhype.me/github/profile?user_id=39967235)
 
-![Profile Views](https://komarev.com/ghpvc/?username=vinifsouza&color=CCCCCC)
+![Profile Views](https://komarev.com/ghpvc/?username=vinifsouza&color=000000)
 
 ## 🚀 Skills
 
