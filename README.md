@@ -1,6 +1,6 @@
 ## 🧔🏾 Olá, sou **Vinícius Souza**
 
-Atualmente, trabalho como ***desenvolvedor IA Jr.*** na construção de fluxos de ***chatbots*** e ***bots*** para atendimento de e-mails.
+Atualmente, trabalho como ***desenvolvedor IA Jr.*** na construção de fluxos de ***chatbots*** e ***bots*** para atendimento.
 
 Além disso, também atuo na manutenção e desenvolvimento de modelos de processamento de linguagem natural (**NLP|PLN**).
 
