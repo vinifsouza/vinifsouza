@@ -5,7 +5,7 @@ Atualmente, trabalho como ***desenvolvedor IA Jr.*** na construção de fluxos d
 Além disso, também atuo na manutenção e desenvolvimento de modelos de processamento de linguagem natural (**NLP|PLN**).
 
  - 🎓 **Análise e Desenvolvimento de Sistemas** na [FATEC/Sorocaba](http://www.fatecsorocaba.edu.br/)
- - 💼 **Desenvolvedor IA Jr.** na [Eduzz](https://www.eduzz.com/)
+ - 💼 **Desenvolvedor de Chatbot Jr.** na [Compass UOL](https://compass.uol/front/)
 
 ![](https://hit.yhype.me/github/profile?user_id=39967235)
 
