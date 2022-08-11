@@ -5,7 +5,7 @@ Atualmente, trabalho como ***Desenvolvedor de Chatbot Jr.*** na construção de 
 Além disso, também atuo na manutenção e desenvolvimento de modelos de processamento de linguagem natural (**NLP|PLN**).
 
  - 🎓 **Análise e Desenvolvimento de Sistemas** na [FATEC/Sorocaba](http://www.fatecsorocaba.edu.br/)
- - 💼 **Desenvolvedor de Chatbot Jr.** na [Compass UOL](https://compass.uol/front/)
+ - 💼 **Desenvolvedor Full Stack Pleno** na [ETEG](http://eteg.com.br/)
 
 ![](https://hit.yhype.me/github/profile?user_id=39967235)
 
