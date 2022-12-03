@@ -1,6 +1,6 @@
 ## 🧔🏾 Olá, sou **Vinícius Souza**
 
-Atualmente, trabalho como ***Desenvolvedor de Chatbot Jr.*** na construção de fluxos de ***chatbots*** e ***bots*** para atendimento.
+Atualmente, trabalho como ***Desenvolvedor Full Stack Pleno*** no desenvolvimento e manutenção de APIs, Zendesk Apps e chatbots.
 
 Além disso, também atuo na manutenção e desenvolvimento de modelos de processamento de linguagem natural (**NLP|PLN**).
 
