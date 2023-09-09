@@ -3,7 +3,7 @@
 Currently, I work as a **Mid-Level Full Stack Developer**.
 
 - 🎓 **Systems Analysis and Development** at [FATEC/Sorocaba](http://www.fatecsorocaba.edu.br/)
-- 💼 **Mid-Level Full Stack Developer** at [ETEG](http://eteg.com.br/)
+- 💼 **Mid-Level Full Stack Developer** at [Stone Age](https://stoneage.com.br/)
 
 ## 🚀 Skills
 
