@@ -3,13 +3,13 @@
 Currently, I work as a **Mid-Level Full Stack Developer**.
 
 - 🎓 **Systems Analysis and Development** at [FATEC/Sorocaba](http://www.fatecsorocaba.edu.br/)
-- 💼 **Mid-Level Full Stack Developer** at [Eteg](https://www.eteg.com.br/)
+- 💼 **Software Engineer** at [John Deere](https://www.deere.com/)
 
 ## 🚀 Skills
 
 **Languages and Libraries**
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=microsoft-sql-server) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi) ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=microsoft-sql-server) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi) ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 
 ![vinifsouza](https://github-readme-stats.vercel.app/api/top-langs/?username=vinifsouza&hide=html&layout=compact&theme=tokyonight)
 
